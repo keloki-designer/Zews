@@ -1,0 +1,14 @@
+# Telegram API
+pyrogram==2.0.106
+tgcrypto==1.2.5
+
+# OpenAI API
+openai==1.3.7
+
+# Google Calendar API
+google-api-python-client==2.109.0
+google-auth-httplib2==0.1.1
+google-auth-oauthlib==1.1.0
+
+# Утилиты
+python-dotenv==1.0.0
